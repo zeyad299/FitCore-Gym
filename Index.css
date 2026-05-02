@@ -1,3 +1,9 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 body {
   font-family: "Segoe UI";
   background-color: #ffffff;
@@ -191,6 +197,10 @@ body {
 .testimonials {
   background: #ffffff;
   text-align: center;
+}
+
+.more-than-gym{
+  padding: 50px;
 }
 
 .container {
